@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LanguagesSwitch</string>
+
+    <string name="pref_setting_customize">个性设置</string>
+    <string name="pref_language_label">语言</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="setting">设置语言</string>
+
+    <string-array name="pref_language_titles">
+        <item>English</item>
+        <item>繁体中文</item>
+        <item>简体中文</item>
+        <item>韩语</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>en</item>
+        <item>zh-TW</item>
+        <item>zh-CN</item>
+        <item>ko</item>
+    </string-array>
+</resources>
